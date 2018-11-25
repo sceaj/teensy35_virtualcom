@@ -1,0 +1,4 @@
+
+# Ignore default output directories
+Debug/
+Release/
